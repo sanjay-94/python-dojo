@@ -29,7 +29,7 @@ On a windows machine, you can check by running the following command on command 
 ```sh
 python -V
 ```
-<br />
+
 **Second if you dont have Python already installed, install it like below**
 <br />
 On a mac or linux machine, you can install by running the following command on terminal. 
@@ -39,4 +39,4 @@ export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 brew install python
 ```
 
-On a windows machine, you can [download it from here](https://www.python.org/downloads/)
+On a windows machine, you can download it from here (https://www.python.org/downloads/)
