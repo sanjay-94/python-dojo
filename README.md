@@ -24,9 +24,8 @@ On a mac or linux machine, you can check by running the following command on ter
 which -a python python2 python2.7 python3 python3.6
 ```
 
-<br />
 On a windows machine, you can check by running the following command on command prompt.
-
+<br />
 ```sh
 python -V
 ```
